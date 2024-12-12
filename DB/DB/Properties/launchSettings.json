@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DB": {
+      "commandName": "Project",
+      "sqlDebugging": true,
+      "remoteDebugEnabled": true,
+      "nativeDebugging": true
+    }
+  }
+}
